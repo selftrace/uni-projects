@@ -1,6 +1,6 @@
 # uni-projects
 
-What I did
+What I did:
 
 Loaded and cleaned the dataset
 
