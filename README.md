@@ -3,14 +3,14 @@
 These projects are mostly just me exploring the dataset and seeing what's going on before doing anything more complicated with it
 
 What I did
->Loaded and cleaned the dataset
->Checked for missing values and duplicates
->Looked at the distributions of different features
->Explored relationships between variables
->Made visualizations to better understand the data
->Pointed out interesting patterns and anything that stood out
+Loaded and cleaned the dataset
+Checked for missing values and duplicates
+Looked at the distributions of different features
+Explored relationships between variables
+Made visualizations to better understand the data
+Pointed out interesting patterns and anything that stood out
 
->Libraries Used:
+Libraries Used:
 pandas
 numpy
 matplotlib
