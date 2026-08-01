@@ -1,7 +1,5 @@
 # uni-projects
 
-These projects are mostly just me exploring the dataset and seeing what's going on before doing anything more complicated with it
-
 What I did
 
 Loaded and cleaned the dataset
